@@ -201,8 +201,11 @@ This module demonstrates how **machine learning predictions can be translated in
 ##  Project Structure
 Mental-Health-Treatment-DecisionTrees-Bagging
 │
+
 ├── dmprojectupdated.ipynb # Main notebook containing analysis and models
+
 ├── dataset.csv # Mental health survey dataset
+
 └── README.md # Project documentation
 
 
